@@ -18,11 +18,6 @@
 - 💬 Ask me about <img src="assets/about/ask-me.png" height="16" width="16" /> **everything** *(but not frontend & design)*.
 - ⚡ I accidentally built a <img src="assets/about/game-engine.png" alt="Game engine" height="16" width="16" /> **game engine** while working on [**The Floor is Rhythm**](https://youtu.be/1eFJ12o5hNc).
 
-## 🏆 Competitive Programming Profiles
-
-- <img src="assets/social/leetcode.svg" alt="LeetCode" height="16" width="16" /> LeetCode: [thnhmai06](https://www.leetcode.com/thnhmai06)
-- <img src="assets/social/vnoi.png" alt="VNOI" height="16" width="16" /> VNOI: [MaiThanh1342](https://oj.vnoi.info/user/MaiThanh1342)
-
 ## 🌐 Connect With Me
 
 <p align="left">
