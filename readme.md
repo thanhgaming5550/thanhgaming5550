@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/thnhmai06/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-thnhmai06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width=192 /></a>
 </p>
   
-## 📌 Discord Presence:
+## 📌 What am I doing
 [![Discord Presence](https://lanyard.cnrad.dev/api/384282911479693313?showDisplayName=true)](https://discord.com/users/384282911479693313)
 
 ## 🧰 What I used
