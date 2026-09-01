@@ -106,8 +106,9 @@
 ## 📊 Statistics
 
 <p align="center">
-    <img src="https://trophy.ryglcloud.net/?username=thnhmai06&theme=radical&row=1" alt="Github Trophy" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thnhmai06&show_icons=true&theme=radical&locale=en&layout=compact" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api?username=thnhmai06&show_icons=true&theme=radical&locale=en" height=180 />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thnhmai06&theme=radical" height=180 />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thnhmai06&theme=react&animation=sequence&duration=1" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thnhmai06&theme=react&animation=sequence&duration=1" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thnhmai06&theme=react&animation=sequence&duration=1" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thnhmai06&theme=react&animation=sequence&duration=1" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thnhmai06&theme=react&animation=sequence&duration=1&utcOffset=7" alt="Productive Time" />
 </p>
